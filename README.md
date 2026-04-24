@@ -15,6 +15,11 @@ This is my personal portfolio built as part of my Full Stack Web Development Int
 
 ## Live Demo
 (Add your GitHub Pages link)
+## Preview
+
+![Portfolio 1](portfolio.png)
+![Portfolio 2](portfolio2.png)
+![Portfolio 3](portfolio3.png)
 
 ## Author
 Pavithra
